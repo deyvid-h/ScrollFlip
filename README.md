@@ -1,6 +1,8 @@
 # ScrollToggle
 
-A tiny macOS menu bar app that flips **Natural scrolling** on and off with one click. It's handy when you switch between a trackpad and a mouse.
+**Tired of your scroll direction flipping the wrong way every time you switch between your trackpad and a mouse?** Stop digging through System Settings. ScrollToggle fixes it with one click.
+
+It's a tiny macOS menu bar app that turns **Natural scrolling** on and off instantly.
 
 - **Left-click** the menu bar icon to toggle.
 - **Right-click** to see the current state or quit.
