@@ -21,8 +21,8 @@ The icon shows a hand on a trackpad when natural scrolling is on, and a mouse wh
 ## Install
 
 ```bash
-git clone https://github.com/deyvid-h/ToggleTool.git
-cd ToggleTool
+git clone https://github.com/deyvid-h/ScrollFlip.git
+cd ScrollFlip
 bash build.sh
 ```
 
