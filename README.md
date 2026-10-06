@@ -1,4 +1,4 @@
-# ScrollToggle
+# ScrollFlip
 
 **Tired of your scroll direction flipping the wrong way every time you switch between your trackpad and a mouse?** Stop digging through System Settings. ScrollToggle fixes it with one click.
 
